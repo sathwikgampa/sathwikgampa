@@ -326,7 +326,8 @@ Open_To:
 
 💻 GitHub: https://github.com/sathwikgampa
 
-🔗 LinkedIn: YOUR_LINKEDIN_URL
+🔗 LinkedIn: www.linkedin.com/in/sathwik-gampa
+
 
 ---
 
