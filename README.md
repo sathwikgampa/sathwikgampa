@@ -2,27 +2,26 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6A5ACD&text=Sathwik%20Gampa&fontColor=ffffff&fontSize=42&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+Developer;Full+Stack+Developer;DSA+%7C+System+Design+Learner;Building+Real+World+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+Developer;Full+Stack+Developer;DSA+Enthusiast;Building+Real+World+Projects"/>
 
 <br>
 
-![](https://img.shields.io/badge/B.Tech-Information%20Technology-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.44-success?style=for-the-badge)
+![](https://img.shields.io/badge/Software%20Engineering-Student-6A5ACD?style=for-the-badge)
+![](https://img.shields.io/badge/Java-Full%20Stack%20Developer-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To-SDE%20Internships-success?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=for-the-badge)
+
+<br><br>
 
 <a href="mailto:gampasathwik2220@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
 </a>
 
 <a href="https://github.com/sathwikgampa">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge">
 </a>
 
-![](https://komarev.com/ghpvc/?username=sathwikgampa&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=sathwikgampa&style=for-the-badge"/>
 
 </div>
 
@@ -32,23 +31,16 @@
 
 I am an Information Technology undergraduate at **VNR VJIET** passionate about building scalable software systems, real-time applications, and modern web platforms.
 
-My primary interests include:
+My interests include:
 
 - Software Engineering
 - Backend Development
-- Data Structures & Algorithms
 - Full Stack Development
+- Data Structures & Algorithms
 - Blockchain & Web3
 - System Design Fundamentals
 
-Currently focused on strengthening my foundations in:
-
-- Java
-- OOP
-- DBMS
-- Operating Systems
-- Competitive Programming
-- Real-World Software Development
+Currently focused on improving my skills in Java, backend engineering, database systems, and competitive programming while building production-grade projects.
 
 ---
 
@@ -79,59 +71,60 @@ Currently focused on strengthening my foundations in:
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,sqlite,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,sqlite,redis,firebase" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-# Software Engineering Focus
+# Engineering Focus
 
-| Domain | Experience |
+| Domain | Technologies |
 |----------|----------|
-| Java Development | OOP, Collections, DSA |
-| Backend Development | Node.js, Express |
-| Database Systems | MySQL, PostgreSQL, SQLite |
+| Programming | Java, Python, C |
+| Frontend | React.js, Next.js |
+| Backend | Node.js, Express.js |
+| Databases | MySQL, PostgreSQL, SQLite |
 | Real-Time Systems | Socket.IO, Redis |
-| Frontend Development | React, Next.js |
-| Blockchain Development | Solidity, Ethers.js |
+| Blockchain | Solidity, Ethers.js |
 | Version Control | Git & GitHub |
-| Problem Solving | LeetCode & CodeChef |
+| Core CS | DSA, OOP, DBMS, OS |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>College Bus Tracking & Attendance Management System</b></summary>
+<summary><b>🚌 College Bus Tracking & Attendance Management System</b></summary>
 
 ### Overview
 
-Real-time transit tracking platform designed for educational institutions.
+A real-time transit tracking and attendance management platform designed for educational institutions.
 
 | Category | Details |
 |----------|----------|
-| Stack | React.js, Node.js, Socket.IO |
+| Frontend | React.js |
+| Backend | Node.js |
 | Database | SQLite |
 | Caching | Redis |
-| Features | Live GPS Tracking |
-| Architecture | Event-Driven |
-| Status | Active Development |
+| Real-Time | Socket.IO |
+| Maps | Leaflet.js |
 
 ### Highlights
 
-- Real-time bus tracking
-- Automated attendance
-- Redis-powered caching
-- Interactive Leaflet Maps
-- Live location streaming
+- Live GPS tracking
+- Automated attendance system
+- Real-time location updates
+- Redis caching optimization
+- Interactive map visualization
 
-🔗 Repository:
+Repository:
+
 https://github.com/sathwikgampa/College-Bus-Tracking-Attendance-System
 
 </details>
@@ -139,30 +132,29 @@ https://github.com/sathwikgampa/College-Bus-Tracking-Attendance-System
 ---
 
 <details>
-<summary><b>Decentralized Freelance Payment & Escrow Platform</b></summary>
+<summary><b>🔗 Decentralized Freelance Payment & Escrow Platform</b></summary>
 
 ### Overview
 
-Blockchain-powered escrow application enabling milestone-based payments.
+Blockchain-powered escrow platform enabling secure milestone-based payments.
 
 | Category | Details |
 |----------|----------|
 | Blockchain | Ethereum |
-| Language | Solidity |
-| Integration | Ethers.js |
+| Smart Contracts | Solidity |
 | Wallet | MetaMask |
-| Security | Smart Contracts |
+| Integration | Ethers.js |
 | Network | Sepolia Testnet |
 
 ### Highlights
 
 - Secure escrow contracts
-- Milestone-based release
-- Gas optimization
-- Wallet integration
-- Decentralized payments
+- Milestone-based payments
+- Decentralized fund management
+- Gas fee optimization
+- Ethereum wallet integration
 
-🔗 Repository:
+Repository:
 
 https://github.com/sathwikgampa/Smart-Contracts
 
@@ -171,11 +163,11 @@ https://github.com/sathwikgampa/Smart-Contracts
 ---
 
 <details>
-<summary><b>Citizens Platform</b></summary>
+<summary><b>🏛 Citizens Platform</b></summary>
 
 ### Overview
 
-Digital civic engagement platform enabling citizens to report issues and interact with local governance systems.
+A civic engagement platform enabling citizens to report issues and communicate with local authorities.
 
 | Category | Details |
 |----------|----------|
@@ -184,9 +176,15 @@ Digital civic engagement platform enabling citizens to report issues and interac
 | Authentication | Firebase Auth |
 | Database | Firestore |
 | Features | Geo-tagged Complaints |
-| Analytics | Ward Dashboards |
 
-🔗 Repository:
+### Highlights
+
+- Geo-tagged issue reporting
+- Community engagement
+- Ward-level dashboards
+- Firebase-powered backend
+
+Repository:
 
 https://github.com/sathwikgampa/Citizens_Platform
 
@@ -196,19 +194,19 @@ https://github.com/sathwikgampa/Citizens_Platform
 
 # Education
 
-### VNR Vignana Jyothi Institute of Engineering & Technology
+### Bachelor of Technology (Information Technology)
 
-**Bachelor of Technology - Information Technology**
+**VNR Vignana Jyothi Institute of Engineering & Technology**
 
 2024 - 2028
 
-CGPA: **8.44/10.0**
+**CGPA: 8.44 / 10.0**
 
 Relevant Coursework:
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- DBMS
+- Database Management Systems
 - Operating Systems
 - Software Engineering
 
@@ -219,9 +217,9 @@ Relevant Coursework:
 | Recognition | Details |
 |------------|---------|
 | Hackathon Top Performer | Recognized among top teams at CVR College Hackathon |
-| TechnoVista Participant | Participated in campus innovation competitions |
-| Competitive Programming | Active LeetCode & CodeChef participant |
+| Competitive Programming | Active participant in LeetCode and CodeChef contests |
 | Oracle Certified | Oracle Generative AI Professional |
+| TechnoVista | Participated in campus innovation and coding events |
 
 ---
 
@@ -239,15 +237,15 @@ Relevant Coursework:
 
 # Coding Profiles
 
-<a href="#">
+<a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge">
 </a>
 
-<a href="#">
+<a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge">
 </a>
 
-<a href="#">
+<a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge">
 </a>
 
@@ -305,14 +303,14 @@ Learning:
   - Database Optimization
 
 Building:
-  - Real-Time Applications
-  - Full Stack Projects
-  - Open Source Contributions
+  - Full Stack Applications
+  - Real-Time Systems
+  - Blockchain Projects
 
 Exploring:
   - Distributed Systems
-  - Blockchain Development
   - Cloud Computing
+  - Open Source
 
 Open_To:
   - SDE Internships
@@ -320,19 +318,21 @@ Open_To:
   - Hackathons
 ```
 
+---
+
 # Connect With Me
 
 📧 Email: gampasathwik2220@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
 💻 GitHub: https://github.com/sathwikgampa
+
+🔗 LinkedIn: YOUR_LINKEDIN_URL
 
 ---
 
 <div align="center">
 
-"Building reliable software one commit at a time."
+### Building reliable software one commit at a time.
 
 </div>
 
