@@ -59,25 +59,25 @@ Currently focused on improving my skills in Java, backend engineering, database 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,sqlite,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgresql,sqlite,redis,firebase" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
 
 ---
@@ -86,18 +86,76 @@ Currently focused on improving my skills in Java, backend engineering, database 
 
 | Domain | Technologies |
 |----------|----------|
-| Programming | Java, Python, C |
-| Frontend | React.js, Next.js |
-| Backend | Node.js, Express.js |
-| Databases | MySQL, PostgreSQL, SQLite |
+| Programming | Java, Python, C, TypeScript |
+| Frontend | React.js, Next.js, Tailwind CSS |
+| Backend & AI | FastAPI, Node.js, Express.js, Google Gemini |
+| Databases | MySQL, PostgreSQL, SQLite, Redis, Firestore |
 | Real-Time Systems | Socket.IO, Redis |
 | Blockchain | Solidity, Ethers.js |
 | Version Control | Git & GitHub |
-| Core CS | DSA, OOP, DBMS, OS |
+| Core CS | DSA, OOP, DBMS, OS, System Design |
 
 ---
 
 # Featured Projects
+
+<details>
+<summary><b>🤖 FounderHQ – Autonomous AI Operating System for Startups</b></summary>
+
+### Overview
+
+An enterprise-grade AI Operating System designed to eliminate operational burnout for early-stage founders by centralizing startup operations into an intelligent CEO Planner and specialized agentic sub-systems.
+
+| Category | Details |
+|----------|----------|
+| Frontend | Next.js 15, TypeScript, Speech UI |
+| Backend | FastAPI, Python |
+| AI Engine | Google Gemini Engine |
+| Monorepo | Turborepo |
+
+### Highlights
+
+- Hierarchical multi-agent cognitive architecture
+- Autonomous CEO Planner Agent for high-level goal orchestration
+- Multi-agent execution across Finance, Legal, HR, and Growth
+- Memory retention and real-time speech interactions
+
+Repository:
+
+https://github.com/sathwikgampa/FounderHq
+
+</details>
+
+---
+
+<details>
+<summary><b>📄 Resume Matcher & Job Scraper (Pure Java)</b></summary>
+
+### Overview
+
+An end-to-end resume-to-job matching pipeline built entirely in pure Java with zero external dependencies. Scrapes live job postings, extracts keywords, and computes mathematical similarity using cosine vector matching.
+
+| Category | Details |
+|----------|----------|
+| Language | Java (JDK 11+) |
+| Similarity Algorithm | Vector Cosine Similarity |
+| Backend API | Pure-Java HTTP Server (`/match` JSON endpoint) |
+| Web Scraping | Custom HTML Parser & Cleaner |
+
+### Highlights
+
+- Zero-dependency backend running entirely on JDK
+- Live job posting scraping and automated noise reduction (stopword removal)
+- Mathematical similarity scoring (0–100%) with keyword gap analysis
+- Structured `/match` JSON API ready for frontend integration
+
+Repository:
+
+https://github.com/sathwikgampa/resume-matcher
+
+</details>
+
+---
 
 <details>
 <summary><b>🚌 College Bus Tracking & Attendance Management System</b></summary>
@@ -163,7 +221,7 @@ https://github.com/sathwikgampa/Smart-Contracts
 ---
 
 <details>
-<summary><b>🏛 Citizens Platform</b></summary>
+<summary><b>🏛 Citizens Platform (Cynx-YouthLink)</b></summary>
 
 ### Overview
 
@@ -200,7 +258,7 @@ https://github.com/sathwikgampa/Citizens_Platform
 
 2024 - 2028
 
-**CGPA: 8.44 / 10.0**
+**CGPA: 8.6 / 10.0**
 
 Relevant Coursework:
 
