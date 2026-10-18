@@ -1,5 +1,5 @@
 
-# Hi, I'm Sathwik Gampa 👋
+# Hi, I'm Sathwik Gampa 
 
 ### Aspiring Software Development Engineer | B.Tech IT | Class of 2028
 
