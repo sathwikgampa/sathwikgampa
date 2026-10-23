@@ -6,11 +6,11 @@
 I enjoy building practical software, solving algorithmic problems,
 and understanding how reliable backend systems work.
 
-- 🎓 Information Technology student at VNR VJIET, Hyderabad
-- 💻 Focused on Java, Data Structures & Algorithms, and backend engineering
-- 🛠️ Building full-stack applications and AI-assisted systems
-- 📚 Strengthening problem-solving and core computer science fundamentals
-- 🎯 Preparing for software engineering internships and SDE roles
+-  Information Technology student at VNR VJIET, Hyderabad
+-  Focused on Java, Data Structures & Algorithms, and backend engineering
+-  Building full-stack applications and AI-assisted systems
+-  Strengthening problem-solving and core computer science fundamentals
+-  Preparing for software engineering internships and SDE roles
 
 ### Tech Stack
 
